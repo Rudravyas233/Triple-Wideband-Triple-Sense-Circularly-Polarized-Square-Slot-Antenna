@@ -1,0 +1,2 @@
+# Triple-Wideband-Triple-Sense-Circularly-Polarized-Square-Slot-Antenna
+This project presents a triple-wideband, triple-sense circularly polarized antenna for Wi-Fi, GPS, WLAN, and WiMAX. Featuring an L-shaped radiator and modified ground structure, it achieves RHCP and LHCP across three bands. Optimizations in slot loading, feed line width, and resonators enhance impedance bandwidth, gain, and efficiency.
